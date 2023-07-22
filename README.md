@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nada Mekni</h1>
 <h3 align="center">Fullstack Web Developer and data science student From Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nada-mekni-dev&label=Profile%20views&color=0e75b6&style=flat" alt="nada-mekni-dev" /> </p>
 
 - 🌱 learning all about **Web development and data science**
 
-- 💬 Ask me about ****ReactJs, ExpressJs, NodeJs, javaScript, AngularJs, JavaEE, python, PostgreSQL, MySQL ****
+- 💬 Ask me about **ReactJs, ExpressJs, NodeJs, javaScript, AngularJs, JavaEE, python, PostgreSQL, MySQL **
 
-- 📫 How to reach me **nadamekni55@gmail.com**
+- 📫 Mailing me on **nadamekni55@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
